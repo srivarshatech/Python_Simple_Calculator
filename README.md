@@ -28,7 +28,7 @@ calculator.py
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-simple-calculator.git
+git clone https://github.com/srivarshatech/python-simple-calculator.git
 ```
 
 2. Navigate to the project folder.
